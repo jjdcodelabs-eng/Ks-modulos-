@@ -1,0 +1,7012 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "numero_cliente": "ADMIN-01",
+      "nombre": "Dueño",
+      "apellido": "Principal",
+      "nombre_local": "Casa Central Repuestos",
+      "direccion": "Av. Corrientes 1234, CABA",
+      "telefono": "1155443322",
+      "correo": "admin@gremio.com",
+      "password": "admin",
+      "rol": "dueño",
+      "cuenta_corriente": 0,
+      "saldo_pendiente": 0
+    },
+    {
+      "id": 2,
+      "numero_cliente": "CLI-01",
+      "nombre": "jonathan ",
+      "apellido": "duarte",
+      "nombre_local": "celus maquina",
+      "direccion": "luis maria campos 2045",
+      "telefono": "1135212456",
+      "correo": "celusmaquinaserviciotecnico@gmail.com",
+      "password": "01020304Rj",
+      "rol": "cliente",
+      "cuenta_corriente": 0,
+      "saldo_pendiente": 0
+    },
+    {
+      "id": 3,
+      "numero_cliente": "CLI-02",
+      "nombre": "romina",
+      "apellido": "4RERT",
+      "nombre_local": "JHGHJGJ",
+      "direccion": "BETINOTI 1090",
+      "telefono": "123213221",
+      "correo": "JJJJJJ@GMAIL.COM",
+      "password": "01020304",
+      "rol": "cliente",
+      "cuenta_corriente": 0,
+      "saldo_pendiente": 0
+    }
+  ],
+  "productos": [
+    {
+      "id": 1,
+      "codigo": "REP-001",
+      "nombre": "Módulo Display OLED iPhone",
+      "categoria": "Repuestos",
+      "precio": 15500,
+      "stock": 14,
+      "imagen": "",
+      "costo": 10850
+    },
+    {
+      "id": 2,
+      "codigo": "ACC-001",
+      "nombre": "Parlante Bluetooth Portátil",
+      "categoria": "Accesorios",
+      "precio": 4500,
+      "stock": 30,
+      "imagen": "",
+      "costo": 3150
+    },
+    {
+      "id": 3,
+      "codigo": "HER-001",
+      "nombre": "Kit de Destornilladores de Precisión",
+      "categoria": "Herramientas",
+      "precio": 8900,
+      "stock": 15,
+      "imagen": "",
+      "costo": 6230
+    },
+    {
+      "id": 4,
+      "codigo": "VAR-001",
+      "nombre": "Cinta Térmica Doble Faz 5mm",
+      "categoria": "Varios",
+      "precio": 1200,
+      "stock": 50,
+      "imagen": "",
+      "costo": 840
+    },
+    {
+      "id": 5,
+      "codigo": "REP-1",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 6,
+      "codigo": "REP-2",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 7,
+      "codigo": "REP-3",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 8,
+      "codigo": "REP-4",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 9,
+      "codigo": "REP-5",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 10,
+      "codigo": "REP-6",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 11,
+      "codigo": "REP-7",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 12,
+      "codigo": "REP-8",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 13,
+      "codigo": "REP-9",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 14,
+      "codigo": "REP-10",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 15,
+      "codigo": "REP-11",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 16,
+      "codigo": "REP-12",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 17,
+      "codigo": "REP-13",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 18,
+      "codigo": "REP-14",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 19,
+      "codigo": "REP-15",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 20,
+      "codigo": "REP-16",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 21,
+      "codigo": "REP-17",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 22,
+      "codigo": "REP-18",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 23,
+      "codigo": "REP-19",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 24,
+      "codigo": "REP-20",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 25,
+      "codigo": "REP-21",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 26,
+      "codigo": "REP-22",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 27,
+      "codigo": "REP-23",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 28,
+      "codigo": "REP-24",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 29,
+      "codigo": "REP-25",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 30,
+      "codigo": "REP-26",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 31,
+      "codigo": "REP-27",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 32,
+      "codigo": "REP-28",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 33,
+      "codigo": "REP-29",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 34,
+      "codigo": "REP-30",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 35,
+      "codigo": "REP-31",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 37,
+      "codigo": "REP-33",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 38,
+      "codigo": "REP-34",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 39,
+      "codigo": "REP-35",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 40,
+      "codigo": "REP-36",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 41,
+      "codigo": "REP-37",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 42,
+      "codigo": "REP-38",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 43,
+      "codigo": "REP-39",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 44,
+      "codigo": "REP-40",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 45,
+      "codigo": "REP-41",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 46,
+      "codigo": "REP-42",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 47,
+      "codigo": "REP-43",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 48,
+      "codigo": "REP-44",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 49,
+      "codigo": "REP-45",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 50,
+      "codigo": "REP-46",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 51,
+      "codigo": "REP-47",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 52,
+      "codigo": "REP-48",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 53,
+      "codigo": "REP-49",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 54,
+      "codigo": "REP-50",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 55,
+      "codigo": "REP-51",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 56,
+      "codigo": "REP-52",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 57,
+      "codigo": "REP-53",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 58,
+      "codigo": "REP-54",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 59,
+      "codigo": "REP-55",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 60,
+      "codigo": "REP-56",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 61,
+      "codigo": "REP-57",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 62,
+      "codigo": "REP-58",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 63,
+      "codigo": "REP-59",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 64,
+      "codigo": "REP-60",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 65,
+      "codigo": "REP-61",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 66,
+      "codigo": "REP-62",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 67,
+      "codigo": "REP-63",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 68,
+      "codigo": "REP-64",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 69,
+      "codigo": "REP-65",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 70,
+      "codigo": "REP-66",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 71,
+      "codigo": "REP-67",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 72,
+      "codigo": "REP-68",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 73,
+      "codigo": "REP-69",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 74,
+      "codigo": "REP-70",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 75,
+      "codigo": "REP-71",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 76,
+      "codigo": "REP-72",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 77,
+      "codigo": "REP-73",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 78,
+      "codigo": "REP-74",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 79,
+      "codigo": "REP-75",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 80,
+      "codigo": "REP-76",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 81,
+      "codigo": "REP-77",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 82,
+      "codigo": "REP-78",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 83,
+      "codigo": "REP-79",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 84,
+      "codigo": "REP-80",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 85,
+      "codigo": "REP-81",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 86,
+      "codigo": "REP-82",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 87,
+      "codigo": "REP-83",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 88,
+      "codigo": "REP-84",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 89,
+      "codigo": "REP-85",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 90,
+      "codigo": "REP-86",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 91,
+      "codigo": "REP-87",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 92,
+      "codigo": "REP-88",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 93,
+      "codigo": "REP-89",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 94,
+      "codigo": "REP-90",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 95,
+      "codigo": "REP-91",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 96,
+      "codigo": "REP-92",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 97,
+      "codigo": "REP-93",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 98,
+      "codigo": "REP-94",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 99,
+      "codigo": "REP-95",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 100,
+      "codigo": "REP-96",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 101,
+      "codigo": "REP-97",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 102,
+      "codigo": "REP-98",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 103,
+      "codigo": "REP-99",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 104,
+      "codigo": "REP-100",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 105,
+      "codigo": "REP-101",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 106,
+      "codigo": "REP-102",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 107,
+      "codigo": "REP-103",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 108,
+      "codigo": "REP-104",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 109,
+      "codigo": "REP-105",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 110,
+      "codigo": "REP-106",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 111,
+      "codigo": "REP-107",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 112,
+      "codigo": "REP-108",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 113,
+      "codigo": "REP-109",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 114,
+      "codigo": "REP-110",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 115,
+      "codigo": "REP-111",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 116,
+      "codigo": "REP-112",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 117,
+      "codigo": "REP-113",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 118,
+      "codigo": "REP-114",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 119,
+      "codigo": "REP-115",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 120,
+      "codigo": "REP-116",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 121,
+      "codigo": "REP-117",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 122,
+      "codigo": "REP-118",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 123,
+      "codigo": "REP-119",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 124,
+      "codigo": "REP-120",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 125,
+      "codigo": "REP-121",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 126,
+      "codigo": "REP-122",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 127,
+      "codigo": "REP-123",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 128,
+      "codigo": "REP-124",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 129,
+      "codigo": "REP-125",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 130,
+      "codigo": "REP-126",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 131,
+      "codigo": "REP-127",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 132,
+      "codigo": "REP-128",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 133,
+      "codigo": "REP-129",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 134,
+      "codigo": "REP-130",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 135,
+      "codigo": "REP-131",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 136,
+      "codigo": "REP-132",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 137,
+      "codigo": "REP-133",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 138,
+      "codigo": "REP-134",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 139,
+      "codigo": "REP-135",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 140,
+      "codigo": "REP-136",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 141,
+      "codigo": "REP-137",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 142,
+      "codigo": "REP-138",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 143,
+      "codigo": "REP-139",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 144,
+      "codigo": "REP-140",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 145,
+      "codigo": "REP-141",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 146,
+      "codigo": "REP-142",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 147,
+      "codigo": "REP-143",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 148,
+      "codigo": "REP-144",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 149,
+      "codigo": "REP-145",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 150,
+      "codigo": "REP-146",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 151,
+      "codigo": "REP-147",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 152,
+      "codigo": "REP-148",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 153,
+      "codigo": "REP-149",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 154,
+      "codigo": "REP-150",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 155,
+      "codigo": "REP-151",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 156,
+      "codigo": "REP-152",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 157,
+      "codigo": "REP-153",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 158,
+      "codigo": "REP-154",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 159,
+      "codigo": "REP-155",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 160,
+      "codigo": "REP-156",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 161,
+      "codigo": "REP-157",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 162,
+      "codigo": "REP-158",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 163,
+      "codigo": "REP-159",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 164,
+      "codigo": "REP-160",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 165,
+      "codigo": "REP-161",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 166,
+      "codigo": "REP-162",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 167,
+      "codigo": "REP-163",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 168,
+      "codigo": "REP-164",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 169,
+      "codigo": "REP-165",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 170,
+      "codigo": "REP-166",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 171,
+      "codigo": "REP-167",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 172,
+      "codigo": "REP-168",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 173,
+      "codigo": "REP-169",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 174,
+      "codigo": "REP-170",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 175,
+      "codigo": "REP-171",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 176,
+      "codigo": "REP-172",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 177,
+      "codigo": "REP-173",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 178,
+      "codigo": "REP-174",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 179,
+      "codigo": "REP-175",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 180,
+      "codigo": "REP-176",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 181,
+      "codigo": "REP-177",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 182,
+      "codigo": "REP-178",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 183,
+      "codigo": "REP-179",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 184,
+      "codigo": "REP-180",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 185,
+      "codigo": "REP-181",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 186,
+      "codigo": "REP-182",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 187,
+      "codigo": "REP-183",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 188,
+      "codigo": "REP-184",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 189,
+      "codigo": "REP-185",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 190,
+      "codigo": "REP-186",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 191,
+      "codigo": "REP-187",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 192,
+      "codigo": "REP-188",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 193,
+      "codigo": "REP-189",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 194,
+      "codigo": "REP-190",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 195,
+      "codigo": "REP-191",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 196,
+      "codigo": "REP-192",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 197,
+      "codigo": "REP-193",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 198,
+      "codigo": "REP-194",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 199,
+      "codigo": "REP-195",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 200,
+      "codigo": "REP-196",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 201,
+      "codigo": "REP-197",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 202,
+      "codigo": "REP-198",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 203,
+      "codigo": "REP-199",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 204,
+      "codigo": "REP-200",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 205,
+      "codigo": "REP-201",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 206,
+      "codigo": "REP-202",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 207,
+      "codigo": "REP-203",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 208,
+      "codigo": "REP-204",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 209,
+      "codigo": "REP-205",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 210,
+      "codigo": "REP-206",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 211,
+      "codigo": "REP-207",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 212,
+      "codigo": "REP-208",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 213,
+      "codigo": "REP-209",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 214,
+      "codigo": "REP-210",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 215,
+      "codigo": "REP-211",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 216,
+      "codigo": "REP-212",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 217,
+      "codigo": "REP-213",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 218,
+      "codigo": "REP-214",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 219,
+      "codigo": "REP-215",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 220,
+      "codigo": "REP-216",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 221,
+      "codigo": "REP-217",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 222,
+      "codigo": "REP-218",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 223,
+      "codigo": "REP-219",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 224,
+      "codigo": "REP-220",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 225,
+      "codigo": "REP-221",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 226,
+      "codigo": "REP-222",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 227,
+      "codigo": "REP-223",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 228,
+      "codigo": "REP-224",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 229,
+      "codigo": "REP-225",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 230,
+      "codigo": "REP-226",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 231,
+      "codigo": "REP-227",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 232,
+      "codigo": "REP-228",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 233,
+      "codigo": "REP-229",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 234,
+      "codigo": "REP-230",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 235,
+      "codigo": "REP-231",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 236,
+      "codigo": "REP-232",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 237,
+      "codigo": "REP-233",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 238,
+      "codigo": "REP-234",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 239,
+      "codigo": "REP-235",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 240,
+      "codigo": "REP-236",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 241,
+      "codigo": "REP-237",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 242,
+      "codigo": "REP-238",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 243,
+      "codigo": "REP-239",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 244,
+      "codigo": "REP-240",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 245,
+      "codigo": "REP-241",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 246,
+      "codigo": "REP-242",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 247,
+      "codigo": "REP-243",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 248,
+      "codigo": "REP-244",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 249,
+      "codigo": "REP-245",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 250,
+      "codigo": "REP-246",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 251,
+      "codigo": "REP-247",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 252,
+      "codigo": "REP-248",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 253,
+      "codigo": "REP-249",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 254,
+      "codigo": "REP-250",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 255,
+      "codigo": "REP-251",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 256,
+      "codigo": "REP-252",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 257,
+      "codigo": "REP-253",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 258,
+      "codigo": "REP-254",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 259,
+      "codigo": "REP-255",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 260,
+      "codigo": "REP-256",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 261,
+      "codigo": "REP-257",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 262,
+      "codigo": "REP-258",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 263,
+      "codigo": "REP-259",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 264,
+      "codigo": "REP-260",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 265,
+      "codigo": "REP-261",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 266,
+      "codigo": "REP-262",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 267,
+      "codigo": "REP-263",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 268,
+      "codigo": "REP-264",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 269,
+      "codigo": "REP-265",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 270,
+      "codigo": "REP-266",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 271,
+      "codigo": "REP-267",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 272,
+      "codigo": "REP-268",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 273,
+      "codigo": "REP-269",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 274,
+      "codigo": "REP-270",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 275,
+      "codigo": "REP-271",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 276,
+      "codigo": "REP-272",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 277,
+      "codigo": "REP-273",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 278,
+      "codigo": "REP-274",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 279,
+      "codigo": "REP-275",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 280,
+      "codigo": "REP-276",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 281,
+      "codigo": "REP-277",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 282,
+      "codigo": "REP-278",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 283,
+      "codigo": "REP-279",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 284,
+      "codigo": "REP-280",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 285,
+      "codigo": "REP-281",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 286,
+      "codigo": "REP-282",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 287,
+      "codigo": "REP-283",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 288,
+      "codigo": "REP-284",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 289,
+      "codigo": "REP-285",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 290,
+      "codigo": "REP-286",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 291,
+      "codigo": "REP-287",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 292,
+      "codigo": "REP-288",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 293,
+      "codigo": "REP-289",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 294,
+      "codigo": "REP-290",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 295,
+      "codigo": "REP-291",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 296,
+      "codigo": "REP-292",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 297,
+      "codigo": "REP-293",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 298,
+      "codigo": "REP-294",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 299,
+      "codigo": "REP-295",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 300,
+      "codigo": "REP-296",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 301,
+      "codigo": "REP-297",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 302,
+      "codigo": "REP-298",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 303,
+      "codigo": "REP-299",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 304,
+      "codigo": "REP-300",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 305,
+      "codigo": "REP-301",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 306,
+      "codigo": "REP-302",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 307,
+      "codigo": "REP-303",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 308,
+      "codigo": "REP-304",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 309,
+      "codigo": "REP-305",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 310,
+      "codigo": "REP-306",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 311,
+      "codigo": "REP-307",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 312,
+      "codigo": "REP-308",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 313,
+      "codigo": "REP-309",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 314,
+      "codigo": "REP-310",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 315,
+      "codigo": "REP-311",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 316,
+      "codigo": "REP-312",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 317,
+      "codigo": "REP-313",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 318,
+      "codigo": "REP-314",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 319,
+      "codigo": "REP-315",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 320,
+      "codigo": "REP-316",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 321,
+      "codigo": "REP-317",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 322,
+      "codigo": "REP-318",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 323,
+      "codigo": "REP-319",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 324,
+      "codigo": "REP-320",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 325,
+      "codigo": "REP-321",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 326,
+      "codigo": "REP-322",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 327,
+      "codigo": "REP-323",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 328,
+      "codigo": "REP-324",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 329,
+      "codigo": "REP-325",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 330,
+      "codigo": "REP-326",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 331,
+      "codigo": "REP-327",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 332,
+      "codigo": "REP-328",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 333,
+      "codigo": "REP-329",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 334,
+      "codigo": "REP-330",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 335,
+      "codigo": "REP-331",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 336,
+      "codigo": "REP-332",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 337,
+      "codigo": "REP-333",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 338,
+      "codigo": "REP-334",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 339,
+      "codigo": "REP-335",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 340,
+      "codigo": "REP-336",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 341,
+      "codigo": "REP-337",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 342,
+      "codigo": "REP-338",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 343,
+      "codigo": "REP-339",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 344,
+      "codigo": "REP-340",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 345,
+      "codigo": "REP-341",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 346,
+      "codigo": "REP-342",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "stock": 0,
+      "imagen": "",
+      "costo": 0
+    },
+    {
+      "id": 347,
+      "codigo": "REP-010",
+      "nombre": "Módulo Display Samsung A14",
+      "categoria": "Repuestos",
+      "precio": 18500,
+      "costo": 13000,
+      "stock": 20,
+      "imagen": ""
+    },
+    {
+      "id": 348,
+      "codigo": "ACC-020",
+      "nombre": "Cargador Carga Rápida 20W",
+      "categoria": "Accesorios",
+      "precio": 5500,
+      "costo": 3500,
+      "stock": 40,
+      "imagen": ""
+    },
+    {
+      "id": 349,
+      "codigo": "HER-002",
+      "nombre": "Estación de Soldar Digital 858D",
+      "categoria": "Herramientas",
+      "precio": 42000,
+      "costo": 30000,
+      "stock": 8,
+      "imagen": ""
+    },
+    {
+      "id": 350,
+      "codigo": "VAR-005",
+      "nombre": "Pegamento T-7000 Negro 110ml",
+      "categoria": "Varios",
+      "precio": 2500,
+      "costo": 1500,
+      "stock": 50,
+      "imagen": ""
+    },
+    {
+      "id": 351,
+      "codigo": "REP-5",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 352,
+      "codigo": "REP-6",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 353,
+      "codigo": "REP-7",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 354,
+      "codigo": "REP-8",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 355,
+      "codigo": "REP-9",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 356,
+      "codigo": "REP-10",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 357,
+      "codigo": "REP-11",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 358,
+      "codigo": "REP-12",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 359,
+      "codigo": "REP-13",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 360,
+      "codigo": "REP-14",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 361,
+      "codigo": "REP-15",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 362,
+      "codigo": "REP-16",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 363,
+      "codigo": "REP-17",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 364,
+      "codigo": "REP-18",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 365,
+      "codigo": "REP-19",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 366,
+      "codigo": "REP-20",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 367,
+      "codigo": "REP-21",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 368,
+      "codigo": "REP-22",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 369,
+      "codigo": "REP-23",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 370,
+      "codigo": "REP-24",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 371,
+      "codigo": "REP-25",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 372,
+      "codigo": "REP-26",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 373,
+      "codigo": "REP-27",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 374,
+      "codigo": "REP-28",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 375,
+      "codigo": "REP-29",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 376,
+      "codigo": "REP-30",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 377,
+      "codigo": "REP-31",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 378,
+      "codigo": "REP-32",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 379,
+      "codigo": "REP-33",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 380,
+      "codigo": "REP-34",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 381,
+      "codigo": "REP-35",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 382,
+      "codigo": "REP-36",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 383,
+      "codigo": "REP-37",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 384,
+      "codigo": "REP-38",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 385,
+      "codigo": "REP-39",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 386,
+      "codigo": "REP-40",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 387,
+      "codigo": "REP-41",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 388,
+      "codigo": "REP-42",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 389,
+      "codigo": "REP-43",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 390,
+      "codigo": "REP-44",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 391,
+      "codigo": "REP-45",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 392,
+      "codigo": "REP-46",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 393,
+      "codigo": "REP-47",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 394,
+      "codigo": "REP-48",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 395,
+      "codigo": "REP-49",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 396,
+      "codigo": "REP-50",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 397,
+      "codigo": "REP-51",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 398,
+      "codigo": "REP-52",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 399,
+      "codigo": "REP-53",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 400,
+      "codigo": "REP-54",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 401,
+      "codigo": "REP-55",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 402,
+      "codigo": "REP-56",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 403,
+      "codigo": "REP-57",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 404,
+      "codigo": "REP-58",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 405,
+      "codigo": "REP-59",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 406,
+      "codigo": "REP-60",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 407,
+      "codigo": "REP-61",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 408,
+      "codigo": "REP-62",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 409,
+      "codigo": "REP-63",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 410,
+      "codigo": "REP-64",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 411,
+      "codigo": "REP-65",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 412,
+      "codigo": "REP-66",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 413,
+      "codigo": "REP-67",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 414,
+      "codigo": "REP-68",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 415,
+      "codigo": "REP-69",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 416,
+      "codigo": "REP-70",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 417,
+      "codigo": "REP-71",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 418,
+      "codigo": "REP-72",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 419,
+      "codigo": "REP-73",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 420,
+      "codigo": "REP-74",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 421,
+      "codigo": "REP-75",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 422,
+      "codigo": "REP-76",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 423,
+      "codigo": "REP-77",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 424,
+      "codigo": "REP-78",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 425,
+      "codigo": "REP-79",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 426,
+      "codigo": "REP-80",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 427,
+      "codigo": "REP-81",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 428,
+      "codigo": "REP-82",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 429,
+      "codigo": "REP-83",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 430,
+      "codigo": "REP-84",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 431,
+      "codigo": "REP-85",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 432,
+      "codigo": "REP-86",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 433,
+      "codigo": "REP-87",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 434,
+      "codigo": "REP-88",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 435,
+      "codigo": "REP-89",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 436,
+      "codigo": "REP-90",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 437,
+      "codigo": "REP-91",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 438,
+      "codigo": "REP-92",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 439,
+      "codigo": "REP-93",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 440,
+      "codigo": "REP-94",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 441,
+      "codigo": "REP-95",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 442,
+      "codigo": "REP-96",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 443,
+      "codigo": "REP-97",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 444,
+      "codigo": "REP-98",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 445,
+      "codigo": "REP-99",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 446,
+      "codigo": "REP-100",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 447,
+      "codigo": "REP-101",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 448,
+      "codigo": "REP-102",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 449,
+      "codigo": "REP-103",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 450,
+      "codigo": "REP-104",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 451,
+      "codigo": "REP-105",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 452,
+      "codigo": "REP-106",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 453,
+      "codigo": "REP-107",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 454,
+      "codigo": "REP-108",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 455,
+      "codigo": "REP-109",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 456,
+      "codigo": "REP-110",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 457,
+      "codigo": "REP-111",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 458,
+      "codigo": "REP-112",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 459,
+      "codigo": "REP-113",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 460,
+      "codigo": "REP-114",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 461,
+      "codigo": "REP-115",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 462,
+      "codigo": "REP-116",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 463,
+      "codigo": "REP-117",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 464,
+      "codigo": "REP-118",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 465,
+      "codigo": "REP-119",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 466,
+      "codigo": "REP-120",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 467,
+      "codigo": "REP-121",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 468,
+      "codigo": "REP-122",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 469,
+      "codigo": "REP-123",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 470,
+      "codigo": "REP-124",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 471,
+      "codigo": "REP-125",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 472,
+      "codigo": "REP-126",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 473,
+      "codigo": "REP-127",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 474,
+      "codigo": "REP-128",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 475,
+      "codigo": "REP-129",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 476,
+      "codigo": "REP-130",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 477,
+      "codigo": "REP-131",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 478,
+      "codigo": "REP-132",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 479,
+      "codigo": "REP-133",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 480,
+      "codigo": "REP-134",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 481,
+      "codigo": "REP-135",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 482,
+      "codigo": "REP-136",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 483,
+      "codigo": "REP-137",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 484,
+      "codigo": "REP-138",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 485,
+      "codigo": "REP-139",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 486,
+      "codigo": "REP-140",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 487,
+      "codigo": "REP-141",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 488,
+      "codigo": "REP-142",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 489,
+      "codigo": "REP-143",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 490,
+      "codigo": "REP-144",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 491,
+      "codigo": "REP-145",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 492,
+      "codigo": "REP-146",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 493,
+      "codigo": "REP-147",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 494,
+      "codigo": "REP-148",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 495,
+      "codigo": "REP-149",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 496,
+      "codigo": "REP-150",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 497,
+      "codigo": "REP-151",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 498,
+      "codigo": "REP-152",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 499,
+      "codigo": "REP-153",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 500,
+      "codigo": "REP-154",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 501,
+      "codigo": "REP-155",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 502,
+      "codigo": "REP-156",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 503,
+      "codigo": "REP-157",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 504,
+      "codigo": "REP-158",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 505,
+      "codigo": "REP-159",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 506,
+      "codigo": "REP-160",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 507,
+      "codigo": "REP-161",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 508,
+      "codigo": "REP-162",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 509,
+      "codigo": "REP-163",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 510,
+      "codigo": "REP-164",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 511,
+      "codigo": "REP-165",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 512,
+      "codigo": "REP-166",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 513,
+      "codigo": "REP-167",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 514,
+      "codigo": "REP-168",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 515,
+      "codigo": "REP-169",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 516,
+      "codigo": "REP-170",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 517,
+      "codigo": "REP-171",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 518,
+      "codigo": "REP-172",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 519,
+      "codigo": "REP-173",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 520,
+      "codigo": "REP-174",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 521,
+      "codigo": "REP-175",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 522,
+      "codigo": "REP-176",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 523,
+      "codigo": "REP-177",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 524,
+      "codigo": "REP-178",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 525,
+      "codigo": "REP-179",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 526,
+      "codigo": "REP-180",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 527,
+      "codigo": "REP-181",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 528,
+      "codigo": "REP-182",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 529,
+      "codigo": "REP-183",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 530,
+      "codigo": "REP-184",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 531,
+      "codigo": "REP-185",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 532,
+      "codigo": "REP-186",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 533,
+      "codigo": "REP-187",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 534,
+      "codigo": "REP-188",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 535,
+      "codigo": "REP-189",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 536,
+      "codigo": "REP-190",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 537,
+      "codigo": "REP-191",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 538,
+      "codigo": "REP-192",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 539,
+      "codigo": "REP-193",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 540,
+      "codigo": "REP-194",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 541,
+      "codigo": "REP-195",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 542,
+      "codigo": "REP-196",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 543,
+      "codigo": "REP-197",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 544,
+      "codigo": "REP-198",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 545,
+      "codigo": "REP-199",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 546,
+      "codigo": "REP-200",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 547,
+      "codigo": "REP-201",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 548,
+      "codigo": "REP-202",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 549,
+      "codigo": "REP-203",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 550,
+      "codigo": "REP-204",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 551,
+      "codigo": "REP-205",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 552,
+      "codigo": "REP-206",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 553,
+      "codigo": "REP-207",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 554,
+      "codigo": "REP-208",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 555,
+      "codigo": "REP-209",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 556,
+      "codigo": "REP-210",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 557,
+      "codigo": "REP-211",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 558,
+      "codigo": "REP-212",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 559,
+      "codigo": "REP-213",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 560,
+      "codigo": "REP-214",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 561,
+      "codigo": "REP-215",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 562,
+      "codigo": "REP-216",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 563,
+      "codigo": "REP-217",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 564,
+      "codigo": "REP-218",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 565,
+      "codigo": "REP-219",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 566,
+      "codigo": "REP-220",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 567,
+      "codigo": "REP-221",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 568,
+      "codigo": "REP-222",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 569,
+      "codigo": "REP-223",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 570,
+      "codigo": "REP-224",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 571,
+      "codigo": "REP-225",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 572,
+      "codigo": "REP-226",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 573,
+      "codigo": "REP-227",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 574,
+      "codigo": "REP-228",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 575,
+      "codigo": "REP-229",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 576,
+      "codigo": "REP-230",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 577,
+      "codigo": "REP-231",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 578,
+      "codigo": "REP-232",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 579,
+      "codigo": "REP-233",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 580,
+      "codigo": "REP-234",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 581,
+      "codigo": "REP-235",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 582,
+      "codigo": "REP-236",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 583,
+      "codigo": "REP-237",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 584,
+      "codigo": "REP-238",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 585,
+      "codigo": "REP-239",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 586,
+      "codigo": "REP-240",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 587,
+      "codigo": "REP-241",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 588,
+      "codigo": "REP-242",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 589,
+      "codigo": "REP-243",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 590,
+      "codigo": "REP-244",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 591,
+      "codigo": "REP-245",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 592,
+      "codigo": "REP-246",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 593,
+      "codigo": "REP-247",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 594,
+      "codigo": "REP-248",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 595,
+      "codigo": "REP-249",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 596,
+      "codigo": "REP-250",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 597,
+      "codigo": "REP-251",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 598,
+      "codigo": "REP-252",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 599,
+      "codigo": "REP-253",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 600,
+      "codigo": "REP-254",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 601,
+      "codigo": "REP-255",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 602,
+      "codigo": "REP-256",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 603,
+      "codigo": "REP-257",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 604,
+      "codigo": "REP-258",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 605,
+      "codigo": "REP-259",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 606,
+      "codigo": "REP-260",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 607,
+      "codigo": "REP-261",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 608,
+      "codigo": "REP-262",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 609,
+      "codigo": "REP-263",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 610,
+      "codigo": "REP-264",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 611,
+      "codigo": "REP-265",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 612,
+      "codigo": "REP-266",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 613,
+      "codigo": "REP-267",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 614,
+      "codigo": "REP-268",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 615,
+      "codigo": "REP-269",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 616,
+      "codigo": "REP-270",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 617,
+      "codigo": "REP-271",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 618,
+      "codigo": "REP-272",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 619,
+      "codigo": "REP-273",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 620,
+      "codigo": "REP-274",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 621,
+      "codigo": "REP-275",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 622,
+      "codigo": "REP-276",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 623,
+      "codigo": "REP-277",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 624,
+      "codigo": "REP-278",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 625,
+      "codigo": "REP-279",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 626,
+      "codigo": "REP-280",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 627,
+      "codigo": "REP-281",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 628,
+      "codigo": "REP-282",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 629,
+      "codigo": "REP-283",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 630,
+      "codigo": "REP-284",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 631,
+      "codigo": "REP-285",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 632,
+      "codigo": "REP-286",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 633,
+      "codigo": "REP-287",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 634,
+      "codigo": "REP-288",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 635,
+      "codigo": "REP-289",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 636,
+      "codigo": "REP-290",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 637,
+      "codigo": "REP-291",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 638,
+      "codigo": "REP-292",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 639,
+      "codigo": "REP-293",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 640,
+      "codigo": "REP-294",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 641,
+      "codigo": "REP-295",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 642,
+      "codigo": "REP-296",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 643,
+      "codigo": "REP-297",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 644,
+      "codigo": "REP-298",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 645,
+      "codigo": "REP-299",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 646,
+      "codigo": "REP-300",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 647,
+      "codigo": "REP-301",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 648,
+      "codigo": "REP-302",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 649,
+      "codigo": "REP-303",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 650,
+      "codigo": "REP-304",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 651,
+      "codigo": "REP-305",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 652,
+      "codigo": "REP-306",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 653,
+      "codigo": "REP-307",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 654,
+      "codigo": "REP-308",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 655,
+      "codigo": "REP-309",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 656,
+      "codigo": "REP-310",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 657,
+      "codigo": "REP-311",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 658,
+      "codigo": "REP-312",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 659,
+      "codigo": "REP-313",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 660,
+      "codigo": "REP-314",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 661,
+      "codigo": "REP-315",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 662,
+      "codigo": "REP-316",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 663,
+      "codigo": "REP-317",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 664,
+      "codigo": "REP-318",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 665,
+      "codigo": "REP-319",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 666,
+      "codigo": "REP-320",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 667,
+      "codigo": "REP-321",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 668,
+      "codigo": "REP-322",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 669,
+      "codigo": "REP-323",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 670,
+      "codigo": "REP-324",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 671,
+      "codigo": "REP-325",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 672,
+      "codigo": "REP-326",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 673,
+      "codigo": "REP-327",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 674,
+      "codigo": "REP-328",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 675,
+      "codigo": "REP-329",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 676,
+      "codigo": "REP-330",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 677,
+      "codigo": "REP-331",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 678,
+      "codigo": "REP-332",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 679,
+      "codigo": "REP-333",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 680,
+      "codigo": "REP-334",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 681,
+      "codigo": "REP-335",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 682,
+      "codigo": "REP-336",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 683,
+      "codigo": "REP-337",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 684,
+      "codigo": "REP-338",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 685,
+      "codigo": "REP-339",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 686,
+      "codigo": "REP-340",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 687,
+      "codigo": "REP-341",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    },
+    {
+      "id": 688,
+      "codigo": "REP-342",
+      "nombre": "Sin Nombre",
+      "categoria": "Repuestos",
+      "precio": 0,
+      "costo": 0,
+      "stock": 0,
+      "imagen": ""
+    }
+  ],
+  "carrusel": {
+    "activo": true,
+    "titulo": "¡Super Promoción de Parlantes y Accesorios en el Gremio!",
+    "imagenes": [
+      {
+        "id": 1,
+        "titulo": "¡Super Promoción de Parlantes y Accesorios en el Gremio!",
+        "archivo": "slide_1791398059580.png"
+      },
+      {
+        "id": 2,
+        "titulo": "¡Super Promoción de Parlantes y Accesorios en el Gremio!",
+        "archivo": "slide_1791398119181.png"
+      }
+    ]
+  },
+  "pedidos": [
+    {
+      "id": 1,
+      "clienteId": 2,
+      "nombreCliente": "jonathan  duarte",
+      "localCliente": "celus maquina",
+      "numeroCliente": "CLI-01",
+      "productoId": 1,
+      "nombreProducto": "Módulo Display OLED iPhone",
+      "precioProducto": 15500,
+      "metodoPago": "Efectivo",
+      "estadoPago": "PAGO CONFIRMADO",
+      "estadoRetiro": "APROBADO Y RETIRADO",
+      "fecha": "6/10/2026"
+    },
+    {
+      "id": 2,
+      "clienteId": 2,
+      "nombreCliente": "jonathan  duarte",
+      "localCliente": "celus maquina",
+      "numeroCliente": "CLI-01",
+      "items": [
+        {
+          "productoId": 1,
+          "codigo": "REP-001",
+          "nombre": "Módulo Display OLED iPhone",
+          "precio": 15500,
+          "cantidad": 2
+        }
+      ],
+      "detalleResumen": "2x Módulo Display OLED iPhone",
+      "total": 31000,
+      "metodoPago": "Efectivo",
+      "estadoPago": "PENDIENTE DE VALIDACIÓN",
+      "estadoRetiro": "PENDIENTE DE APROBACIÓN",
+      "fecha": "6/10/2026"
+    },
+    {
+      "id": 3,
+      "clienteId": 2,
+      "nombreCliente": "jonathan  duarte",
+      "localCliente": "celus maquina",
+      "numeroCliente": "CLI-01",
+      "items": [
+        {
+          "productoId": 1,
+          "codigo": "REP-001",
+          "nombre": "Módulo Display OLED iPhone",
+          "precio": 15500,
+          "cantidad": 11
+        }
+      ],
+      "detalleResumen": "11x Módulo Display OLED iPhone",
+      "total": 170500,
+      "metodoPago": "Efectivo",
+      "estadoPago": "PAGO CONFIRMADO",
+      "estadoRetiro": "APROBADO Y RETIRADO",
+      "fecha": "6/10/2026"
+    }
+  ],
+  "categoriasConfig": {
+    "Repuestos": {
+      "desc": "Módulos, placa de carga, displays, tapas y flex.",
+      "imagen": "cat_1791399976249.png"
+    },
+    "Accesorios": {
+      "desc": "Cables, cargadores, auriculares y fundas.",
+      "imagen": "cat_1791399987122.png"
+    },
+    "Baterías": {
+      "desc": "Baterías originales y compatibles.",
+      "imagen": "cat_1791400001760.png"
+    },
+    "Herramientas": {
+      "desc": "Insumos para técnicos y aficionados.",
+      "imagen": "cat_1791400021678.png"
+    }
+  }
+}
